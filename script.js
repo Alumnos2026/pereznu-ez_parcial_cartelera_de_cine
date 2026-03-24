@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
             button.addEventListener('click', function (e) {
                 e.preventDefault();
                 const movieTitle = this.parentElement.querySelector('.card-title').textContent;
-                alert(`Detalles de ${movieTitle}: ¡Las entradas estarán disponibles pronto!`);
+                alert(`Detalles de ${movieTitle}: Platano power!`);
             });
         }
     });
