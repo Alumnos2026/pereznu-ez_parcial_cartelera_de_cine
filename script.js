@@ -43,4 +43,4 @@ console.log("Promoción (Null):", promocionActual);
 console.log("Próximo Estreno (Undefined):", proximoEstreno);
 
 
-alert(`¡Bienvenido a ${cineNombre}! El lugar de los mejores ${cineTema} en el año ${anioApertura}.`);
+alert(`¡Bienvenido al ${cineNombre}las mejores peiculas dominicas ${cineTema} en el año ${anioApertura}.`);
